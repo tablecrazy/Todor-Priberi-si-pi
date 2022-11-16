@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Harry\\Desktop\\Todor-Priberi-si-pi-main\\Todor-Priberi-si-pi-main\\GitExercise\\GitExercise.csproj",
+      "projectUniqueName": "C:\\Users\\Harry\\Downloads\\GitExercise\\GitExercise\\GitExercise.csproj",
       "projectName": "GitExercise",
-      "projectPath": "C:\\Users\\Harry\\Desktop\\Todor-Priberi-si-pi-main\\Todor-Priberi-si-pi-main\\GitExercise\\GitExercise.csproj",
+      "projectPath": "C:\\Users\\Harry\\Downloads\\GitExercise\\GitExercise\\GitExercise.csproj",
       "packagesPath": "C:\\Users\\Harry\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Harry\\Desktop\\Todor-Priberi-si-pi-main\\Todor-Priberi-si-pi-main\\GitExercise\\obj\\",
+      "outputPath": "C:\\Users\\Harry\\Downloads\\GitExercise\\GitExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
