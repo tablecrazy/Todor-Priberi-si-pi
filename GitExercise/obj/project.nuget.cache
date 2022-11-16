@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4upVX1krCLq5p9PMgi0O0rc5tOfiZpvjwCtcdm44J61ixbZ3ScibTh16nFKarN07HlcX0dcbNY8UpfjK+VA6GQ==",
+  "dgSpecHash": "FZO/vLkvt2Bg3qFPfXr7wvNKYc7HVxws6WylurZOhPEjrscxn8xvrPdgKJ6lZtGlSG8A+qF204V647H9YZ1k9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harry\\Downloads\\GitExercise\\GitExercise\\GitExercise.csproj",
+  "projectFilePath": "C:\\Users\\TODOR_PC\\Downloads\\Todor-Priberi-si-pi-main (1)\\Todor-Priberi-si-pi-main\\GitExercise\\GitExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Harry\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\TODOR_PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\TODOR_PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\TODOR_PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\TODOR_PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }

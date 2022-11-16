@@ -8,9 +8,18 @@ namespace GitExercise
             "a - Add",
             "s - Subtract",
             "m - Multiply",
-            "l - Remaining_Division"
+            "dr - Divide Remainder",
+            "ex- Exit"
         };
 
+        public static void DivideReminder(double a,double b)
+        {
+            Console.WriteLine($"{a}%{b} = {a%b}");
+        }
+        public static void Exit()
+        {
+            return;
+        }
         public static void Add(double a, double b)
         {
             Console.WriteLine($"{a} + {b} = {a + b}");
