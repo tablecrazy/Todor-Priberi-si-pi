@@ -1,0 +1,13 @@
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\Harry\Downloads\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.AssemblyReference.cache
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\Harry\Downloads\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
