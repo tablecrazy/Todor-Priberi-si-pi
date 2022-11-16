@@ -35,8 +35,11 @@ namespace GitExercise
                 case "m":
                     OptionsManager.Multiply(a, b);
                     break;
-                case "l":
-                    OptionsManager.Remaining_Division(a, b);
+                case "dr":
+                    OptionsManager.DivideReminder(a, b);
+                    break;
+                case "ex":
+                    OptionsManager.Exit();
                     break;
             }
 
